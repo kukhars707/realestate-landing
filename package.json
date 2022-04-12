@@ -1,0 +1,38 @@
+{
+  "name": "realestate-landing",
+  "version": "1.0.0",
+  "description": "Realestate landing page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kukhars707/realestate-landing.git"
+  },
+  "keywords": [
+    "realestate"
+  ],
+  "author": " <kukhar.s707@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.27.4",
+    "gulp": "^4.0.2",
+    "gulp-autoprefixer": "^8.0.0",
+    "gulp-clean-css": "^4.3.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-imagemin": "^7.1.0",
+    "gulp-less": "^5.0.0",
+    "gulp-newer": "^1.4.0",
+    "gulp-rename": "^2.0.0",
+    "gulp-uglify-es": "^2.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.6.0"
+  },
+  "bugs": {
+    "url": "https://github.com/kukhars707/realestate-landing/issues"
+  },
+  "homepage": "https://github.com/kukhars707/realestate-landing#readme"
+}
